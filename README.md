@@ -1,0 +1,1 @@
+small skeletton of running command line stuff in spring boot
